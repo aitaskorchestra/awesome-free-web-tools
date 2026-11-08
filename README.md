@@ -10,6 +10,7 @@
 - [Performance & Auditing](#performance--auditing)
 - [Color & Design](#color--design)
 - [Monitoring & Uptime](#monitoring--uptime)
+- [JSON & API Data](#json--api-data)
 
 ---
 
@@ -67,6 +68,12 @@
 | [UptimeRobot](https://uptimerobot.com) | Website monitoring | 50 monitors free |
 | [Freshping](https://www.freshworks.com/website-monitoring/) | Status pages & monitoring | 50 checks free |
 | [Cronitor](https://cronitor.io) | Cron job monitoring | 5 monitors free |
+
+## JSON & API Data
+
+| Tool | Description | Free Tier |
+|------|-------------|-----------|
+| [BestJSON](https://bestjson.com/) | Format, validate and compare JSON locally in the browser; strict formatting preserves numeric tokens | Free, no account; capacity depends on browser/device |
 
 ---
 
