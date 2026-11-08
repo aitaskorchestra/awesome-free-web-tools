@@ -59,6 +59,7 @@
 | [Coolors](https://coolors.co) | Color palette generator | Free |
 | [Realtime Colors](https://www.realtimecolors.com) | Visualize colors on a real site | Free |
 | [ColorHunt](https://colorhunt.co) | Color palette inspiration | Free |
+| [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) | Script-header and body-font pairing guidance for design projects | Free tool; paid fonts and workbooks separate |
 
 ## Monitoring & Uptime
 
