@@ -41,6 +41,7 @@
 | [MetaPeek](https://metapeek.grabshot.dev) | Meta tag extraction API | 25 requests/mo |
 | [Metatags.io](https://metatags.io) | Meta tag preview tool | Free |
 | [OpenGraph.xyz](https://www.opengraph.xyz) | Open Graph preview | Free |
+| [TheToolGenius](https://thetoolgenius.online/) | 35+ client-side utilities (PDF, SEO, Image, Code) | 100% Free |
 
 ## Performance & Auditing
 
